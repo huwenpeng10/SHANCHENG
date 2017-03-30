@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">商城</string>
+    <string name="home">主页</string>
+    <string name="hot">热卖</string>
+    <string name="category">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <string name="quanxuan">全选</string>
+    <string name="heji">合计</string>
+    <string name="jiesuan">去结算</string>
+    <string name="delete">删除</string>
+    <string name="add_cart">已添加到购物车</string>
+    <string name="title">商品列表</string>
+    <string name="shop">商品详情</string>
+    <string name="to_login">点击登录</string>
+    <string name="logout">退出登录</string>
+    <string name="my_orders">我的订单</string>
+    <string name="my_shoucan">我的收藏</string>
+    <string name="my_dizhi">收货地址</string>
+    <string name="login_title">商城登录</string>
+    <string name="phonenumber">请输入手机号码</string>
+    <string name="phonepwd">请输入密码</string>
+    <string name="my_msg">我的消息</string>
+</resources>
